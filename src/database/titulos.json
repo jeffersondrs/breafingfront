@@ -1,18 +1,18 @@
 [
   {
-    "id": "one",
+    "id": 1,
     "title": "Quais campos o usuário irá utilizar para fazer as apostas?"
   },
-  { "id": "two", "title": "O usuário terá uma lista de campos para escolher?" },
-  { "id": "three", "title": "Qual o valor das apostas?" },
-  { "id": "four", "title": "O usuário tera como editar o cadastro já feito?" },
-  { "id": "five", "title": "Como entraremos em contato com o ganhador?" },
-  { "id": "six", "title": "Como será escolhido os jogos para completar a aposta?" },
-  { "id": "seven", "title": "Quais as regras da aposta?" },
-  { "id": "eight", "title": "Como será feita a apostas?" },
+  { "id": 2, "title": "O usuário terá uma lista de campos para escolher?" },
+  { "id": 3, "title": "Qual o valor das apostas?" },
+  { "id": 4, "title": "O usuário tera como editar o cadastro já feito?" },
+  { "id": 5, "title": "Como entraremos em contato com o ganhador?" },
+  { "id": 6, "title": "Como será escolhido os jogos para completar a aposta?" },
+  { "id": 7, "title": "Quais as regras da aposta?" },
+  { "id": 8, "title": "Como será feita a apostas?" },
   {
-    "id": "nine",
+    "id": 9,
     "title": "Qual a duração da aposta e quanto tempo o ganhador tem pra revindicar seu prêmio?"
   },
-  { "id": "ten", "title": "Haverá uma página de divulgação dos ganhadores?" }
+  { "id": 0, "title": "Haverá uma página de divulgação dos ganhadores?" }
 ]
